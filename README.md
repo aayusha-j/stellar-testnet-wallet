@@ -9,17 +9,20 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.<img width="1884" height="960" alt="level1" src="https://github.com/user-attachments/assets/92fdeaea-2c69-4618-925e-2415c7aa05ed" />
+
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+<img width="1889" height="904" alt="level1 1" src="https://github.com/user-attachments/assets/98f94ccb-7fe2-40ac-9e01-16cd25006a8c" />
 
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+### `npm run build`<img width="1889" height="904" alt="level1 1" src="https://github.com/user-attachments/assets/aed3483b-7412-4165-8d1b-82628c3ccfab" />
+
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
